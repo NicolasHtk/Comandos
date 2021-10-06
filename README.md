@@ -1,4 +1,3 @@
-# ComandosGit
-Clase Aprencides Geek
-
-Comandos Git
+# Aprendices
+## Curso
+### Fundamentos de programación
